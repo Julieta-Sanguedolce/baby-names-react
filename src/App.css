@@ -1,0 +1,14 @@
+
+.general{
+    background: lightgray;
+    border: 3px dotted black;
+    text-align: center;
+}
+
+.m{
+    background: lightseagreen;
+}
+
+.f{
+    background: lightgoldenrodyellow;
+}
